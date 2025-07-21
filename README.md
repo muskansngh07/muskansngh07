@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - I am a pre-final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. 
 - I love interpreting data and finding patterns. Open source is another thing that keeps me going. I am inquistive about all things tech and science.
+- Contributor for GSSoC 2025. 
 - Here's to more commits and PRs.
 
 # 💻 Tech Stack:
