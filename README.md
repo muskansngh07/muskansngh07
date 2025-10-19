@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - I love interpreting data and finding patterns. Open source is another thing that keeps me going. I am inquistive about all things tech and science.
 - GSSoC 2025 contributor. 
 - Here's to more commits and PRs.
-- My latest blog: (https://shorturl.at/1UsyP)
+- My latest blog: https://shorturl.at/1UsyP
 
 
 # 📊 GitHub Stats:
