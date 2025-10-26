@@ -37,5 +37,4 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/user-attachments/assets/148c8446-5058-4f91-bc1d-9f11bfd01445" width="200" />
 
-https://github.com/user-attachments/assets/148c8446-5058-4f91-bc1d-9f11bfd01445
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
