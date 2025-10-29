@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - I am a pre-final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. 
 - I love interpreting data and finding patterns. Open source is another thing that keeps me going. I am inquistive about all things tech and science.
-- GSSoC 2025 contributor. 
 - Here's to more commits and PRs.
 - My latest blog: https://shorturl.at/1UsyP
 
@@ -29,13 +28,13 @@ Here are some ideas to get you started:
 </div>
 
 
-## Hacktoberfest Badges 
+## Hacktoberfest 2025 Badges 
 
-<img src="https://github.com/user-attachments/assets/d2bcd85c-46e1-46f2-bd1b-e91f9af99e3d" width="200" />
+<img src="https://github.com/user-attachments/assets/d2bcd85c-46e1-46f2-bd1b-e91f9af99e3d" width="200"/>
 
-<img src="https://github.com/user-attachments/assets/5315bbc1-e3cf-4e69-aede-5d2a08753539" width="200" />
+<img src="https://github.com/user-attachments/assets/5315bbc1-e3cf-4e69-aede-5d2a08753539" width="200"/>
 
-<img src="https://github.com/user-attachments/assets/148c8446-5058-4f91-bc1d-9f11bfd01445" width="200" />
+<img src="https://github.com/user-attachments/assets/148c8446-5058-4f91-bc1d-9f11bfd01445" width="200"/>
 
 <img src="https://github.com/user-attachments/assets/46702140-932e-417b-96da-570b132f3f05" width="200"/>
 
