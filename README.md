@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - I am a pre-final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. 
 - I love interpreting data and finding patterns. Open source is another thing that keeps me going. I am inquistive about all things tech and science.
 - Here's to more commits and PRs.
-- My latest blog: https://shorturl.at/1UsyP
+- My latest blog: https://shorturl.at/w5CmG
 
 
 ## Hacktoberfest 2025 Badges 
