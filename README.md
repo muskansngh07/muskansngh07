@@ -1,4 +1,4 @@
-- Hi! I am Muskan and  I am a final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. I started doing open source out of dread, because everything seemed very intimidating at first. But slowly and steadily, it became better. 
+- Hi! I am Muskan and  I am a final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. Love being here :) 
   
 - My latest blog: https://shorturl.at/w5CmG
 
