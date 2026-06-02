@@ -1,4 +1,4 @@
-## 🦋 Hi, I'm Muskan!
+## 🦋
 
 <!--
 **muskansngh07/muskansngh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- I am a pre-final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. 
-- I love interpreting data and finding patterns. Open source is another thing that keeps me going. I am inquistive about all things tech and science.
-- Here's to more commits and PRs.
+- Hi! I am Muskan and  I am a final year CSE AIML undergrad student at Gandhi Institute of Technology and Management, Visakhapatnam. I started doing open source out of dread, because everything seemed very intimidating at first. But slowly and steadily, it became better. 
+  
 - My latest blog: https://shorturl.at/w5CmG
 
 
